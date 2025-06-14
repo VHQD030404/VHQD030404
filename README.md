@@ -1,4 +1,4 @@
-<h1 style="color: blue;">Hi Guys,👋 I'm Dungh</h1>More actions
+<h1 style="color: blue;">Hi Guys,👋 I'm Dung</h1>More actions
 <h3>I’m  studying at POSTS AND TELECOMMUNICATIONS INSTITUTE OF TECHNOLOGY</h3>
 
 # 💻Tech Stack
