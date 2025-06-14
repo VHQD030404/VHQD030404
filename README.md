@@ -4,7 +4,7 @@
   <div> 
     <img src="https://images.icon-icons.com/2699/PNG/512/python_logo_icon_168886.png" alt="python" width="48" height="48"/> 
     <img src="https://banner2.cleanpng.com/20180831/iua/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-1713945971245.webp" alt="c#" width="50" height="50"/>  
-    <img src="https://www.freeiconspng.com/uploads/c--logo-icon-0.png" alt="c++" width="40" height="40"/>
+    <img src="https://www.freeiconspng.com/uploads/c--logo-icon-0.png" alt="c++" width="50" height="50"/>
     
   </div>
 <h3>Tools:</h3>
