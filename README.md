@@ -3,7 +3,7 @@
 <h3>Languages & Frameworks:</h3>
   <div> 
     <img src="https://images.icon-icons.com/2699/PNG/512/python_logo_icon_168886.png" alt="python" width="48" height="48"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="28"/>  
+    <img src="https://banner2.cleanpng.com/20180831/iua/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-1713945971245.webp" alt="html5" width="50" height="50"/>  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
     
