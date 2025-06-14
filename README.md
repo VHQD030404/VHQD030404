@@ -3,7 +3,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo_PTIT.jpg"c alt="ptit logo" width="40" height="40">
 <h3>Languages & Frameworks:</h3>
   <div> 
-    <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Flogos-world.net%2Fpython-logo%2F&psig=AOvVaw3syXuJ55t1UyVHju6byDCp&ust=1749973579879000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPjns9-18I0DFQAAAAAdAAAAABAE)" alt="css3" width="48" height="48"/> 
+    <img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Symbol.png" alt="python" width="48" height="48"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
